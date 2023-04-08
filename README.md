@@ -12,8 +12,10 @@ Influence on the strategy and the contribution to profit.
 20kW
 
 #### Thermal system:
-* CHP: power 30..60 kWel, ηel = 35%, ηth = 55%
-* auxiliary boiler: power: 20...200kWth, ηth = 90%
+* CHP: power 30 - 60 kWel, ηel = 35%, ηth = 55%
+* auxiliary boiler: power: 20 - 200kWth, ηth = 90%
 * thermal storage: capacity: 200 kWh, losses 2%/h
 * thermal load profile: from attached data (_DHW_HTG_Pel_Psol_exp_update.xlsx_)
 * Electric load profile: from attached data (_DHW_HTG_Pel_Psol_exp_update.xlsx_)
+
+
